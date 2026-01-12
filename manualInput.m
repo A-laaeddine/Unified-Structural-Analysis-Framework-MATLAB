@@ -56,8 +56,10 @@ jLoads = input('Joint Loads [JointID Fx Fy M; ...]: ');
 % 4. MEMBER LOADS
 % Format: [MemberID, LoadValue, Type, Dir]
 % (Keeping empty allowed here)
-mLoads = input('Member Loads [MemberID val type dir; ...]: '); % for dir: 1-> Perpendicular to local member axis
-                                                               %          2-> Along member local axis
+mLoads = input('Member Loads [MemberID val type dir; ...]: '); % for dir:   1-> Along x-axis
+                                                               %            2-> Along y-axis
+                                                               % for type:  1-> UDL         
+                                                               %            2-> Concentrated point load applied at mid-span
                                                                         
 % 5. SUPPORTS
 % Format: [JointID, Ux, Uy, Rot] (1=fixed, 0=free)
