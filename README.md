@@ -66,6 +66,6 @@ This project is licensed under the **MIT License** - see the `LICENSE` file for 
 ## 🤝 Contact
 
 **Mohamad Alaaeddine** 📧 [mohamad.alaaeddine@lau.edu](mailto:mohamad.alaaeddine@lau.edu)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/mohamad-alaaeddine-)  
+                       🔗 [LinkedIn Profile](https://www.linkedin.com/in/mohamad-alaaeddine-)  
 **Project Link:** [https://github.com/A-laaeddine/STIFFNESS-MATRIX-STRUCTURAL-ANALYSIS](https://github.com/A-laaeddine/STIFFNESS-MATRIX-STRUCTURAL-ANALYSIS)
 
